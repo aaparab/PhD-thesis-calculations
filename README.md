@@ -3,7 +3,7 @@ Calculations in Python and SageMath for building intuition and proving the Root 
 
 # Part 1 : Root Cone Lemma for General Linear Group, Getting Intuition about Proof (using Python)
 
-**Background: **
+**Background:**
 
 This Jupyter Notebook contains code related to my PhD thesis in Mathematics. The thesis is available on the ArXiv: https://arxiv.org/abs/1710.08885. I prove the absolute convergence of the twisted [Arthur-Selberg trace formula](https://en.wikipedia.org/wiki/Arthur%E2%80%93Selberg_trace_formula). The trace formula is an identity of two distributions, namely spectral and geometric. In the geometric side, I needed to prove a conjecture about root systems asked as a MathOverflow question [here](https://mathoverflow.net/questions/259765/technical-lemma-on-root-systems-reduced-to-linear-algebra). 
 
